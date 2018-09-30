@@ -4,7 +4,7 @@ layout: page
 
 title: About
 
-permalink: /about/
+permalink: /history/
 
 feature-img: "assets/img/pexels/circuit.jpeg"
 
