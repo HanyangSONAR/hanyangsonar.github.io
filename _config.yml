@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://hanyangsonar.github.io/"
+baseurl: "/"
+url: "https://hanyangsonar.github.io"
 title: SONAR # site's title
 description: "한양대학교 국방정보공학과 정보보안학회" # used by search engines
 
