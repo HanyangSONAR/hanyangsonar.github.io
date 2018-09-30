@@ -20,4 +20,4 @@ tags: [About, Archive]
 
 학회 활동으로는 개인적인 해킹 분야에 대해서 스터디를 조직하고 학습할 수 있으며,
 
-국내외 해킹방어대회 Codegate, HDCON, WhiteHat Contest, SCTF 등에서 입상을 목표로 하고 있습니다.
+국내외 해킹방어대회 Codegate, HDCON, WhiteHat Contest, SCTF 등에서 입상을 목표로 하고 있습니다
