@@ -8,7 +8,7 @@ description: "한양대학교 국방정보공학과 정보보안학회" # used b
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: SONAR :: 한양대학교 국방정보공학과 정보보안학회 # blog's title
+  title: SONAR - 한양대학교 국방정보공학과 정보보안학회 # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
