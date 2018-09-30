@@ -25,3 +25,5 @@ tags: [About, Archive]
 국내외 해킹방어대회 Codegate, HDCON, WhiteHat Contest, SCTF 등에서 입상을 목표로 하는 대회준비반을 운영하고 있습니다.
 
 또한 한국인터넷진흥원(KISA), 대학생보안동아리연합(KUCIS)에 가입하기 위해 여러 실적을 쌓을 예정입니다.
+
+한양대학교를 대표하는 정보보안 동아리가 되겠습니다.
