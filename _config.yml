@@ -19,6 +19,7 @@ theme_settings:
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    한양대학교 국방정보공학과 정보보안학회 SONAR
+   문의 : parkyechan@hanyang.ac.kr
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
